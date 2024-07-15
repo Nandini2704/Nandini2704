@@ -1,6 +1,5 @@
-- Hi, I’m @Nandini2704
-- I’m interested in data science, machine learning, and data analytics
-- I’m currently learning .computer science and engineering in the Global Academy of Technology
+- Hi, I’m @Nandini2704. I’m interested in data science, machine learning, and data analytics
+- I’m currently learning .computer science and engineering at the Global Academy of Technology
 - 
 - 
 <!---
